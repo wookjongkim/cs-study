@@ -101,10 +101,7 @@ gp(매출 총이익) : 매출액에서 원가(제조나 구매비용)를 뺀 매
 op(영업 이익) : 매촐 총이익에서 판매 관리비를 뺀 영업이익을 뜻합니다.<br>
 </details>
 
-<details markdown = "1">
-<summary>입사 후 포부</summary>
 
-</details>
 
 <details markdown = "1">
 <summary>cj프레시웨이의 지속 성장을 위해 필요한 것</summary>
@@ -139,15 +136,6 @@ op(영업 이익) : 매촐 총이익에서 판매 관리비를 뺀 영업이익�
 
 </details>
 
-<details markdown = "1">
-<summary>영업에서 가장 중요한 역량은 뭐라고 생각하나요?, 영업에 필요한 자질은 무엇이라고 생각하나?</summary>
-
-</details>
-
-<details markdown = "1">
-<summary>단체 생활에서 있던 갈등을 하나 말해보고 어떻게 해결했는지</summary>
-
-</details>
 
 <details markdown = "1">
 <summary>프레시웨이에 대해 많이 공부해왔을텐데, 여기서 영업자로서 어떤 업무를 해보고 싶은 업무는 무엇인가요?</summary>
