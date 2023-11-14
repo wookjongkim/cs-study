@@ -158,36 +158,6 @@ cj프레시웨이는 식자재 유통과 고객분들의 사업 성공을 지원
 이후 서로 친해지고 나니 대화하기가 한결 수월해졌고, 팀프로젝트 주제 선정도 잘 마무리 되었습니다.<br>
 </details>
 
-<details markdown = "1">
-<summary>입사 후 같은 팀이나 타 팀과 마찰이 생겼을 때 어떻게 해결하실 건가요?</summary>
-
-</details>
-
-<details markdown = "1">
-<summary>조직에서 갈등을 겪고 극복한 경험이 있는지</summary>
-
-</details>
-
-<details markdown = "1">
-<summary>직무에서 활용가능한 본인만의 장점</summary>
-
-</details>
-
-<details markdown = "1">
-<summary>인생에 꿈이 무엇인지?</summary>
-
-</details>
-
-<details markdown = "1">
-<summary>일하고 싶은 분야가 어디인지?</summary>
-
-</details>
-
-<details markdown = "1">
-<summary>영업인에게 필요한 자세가 무엇이라 생각하는지?</summary>
-
-</details>
-
 
 
 
