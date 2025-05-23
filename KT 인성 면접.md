@@ -20,11 +20,6 @@ KT는 자체 솔루션뿐만아니라 파트너사와의 협업을 매우 다양
 </details>
 
 
-<details markdown = "1">
-<summary>이직, 퇴사 결심 이유</summary>
-우선 회사에서 
-</details>
-
 <h1>인성 면접</h1>
 <details markdown = "1">
 <summary>오랫동안 다닐꺼냐?</summary>
