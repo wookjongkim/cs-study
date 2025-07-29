@@ -30,6 +30,13 @@
 
 </details>
 
+## 자기소개서 관련 내용
+
+<details markdown = "1">
+<summary>질문</summary>
+
+</details>
+
 ## 인성 면접
 
 <details markdown = "1">
