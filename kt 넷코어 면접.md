@@ -70,7 +70,7 @@ KT 넷코어에 지원을 하게 된 동기는 KT 그룹의 인프라 전문성�
 </details>
 
 <details markdown = "1">
-<summary>KT 넷코어/summary>
+<summary>KT 넷코어</summary>
 KT 그룹은 국내에서 선로 인프라 관련하여 가장 광범위한 커버리지를 다루고, 품질과 장애 대응 속도면에서 고객 만족도가 상당히 높다<br>
 </details>
 
