@@ -542,6 +542,7 @@ Be The Way Maker가 되겠다는 말에 그치지않고 실제로 행동으로 �
 <details markdown = "1">
 <summary>회사 특성 상 영업 업무의 90% 이상이 내근 위주?? </summary>
 국내에서는 SW 검증 쪽에서 1위를 하는기업이였고, 고객사 입장에서는 다른 선택지가 없는 경우가 많아 대부분이 인바운드 영업 임에도 연 20% 성장을 했었다.<br>
+</details>
 
 <details markdown = "1">
 <summary>우리도 내근 업무 많다</summary>
