@@ -1,3 +1,14 @@
+<h1>cj 인재상 질문들</h1>
+
+<details markdown = "1">
+<summary>최고, 최초, 차별화, 정직, 열정, 창의, 존중</summary>
+
+</details>
+
+<details markdown = "1">
+<summary>성취한 경험, 희생한 경험, 원칙을 지킨 경험, 창의적 문제 해결 경험, 실패햇던 경험</summary>
+
+</details>
 
 <details markdown = "1">
 <summary>관련 기업 정보, 사업 분야</summary>
