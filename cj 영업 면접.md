@@ -10,6 +10,21 @@
 
 </details>
 
+<details markdown = "1">
+<summary>나이 어린 상사</summary>
+네 잘 지낼수 있다 -> 회사에서는 나이보다 중요한 것이 경력이라 생각하기 때문 -> 실제로 이전 회사에서도 나이가 한살 어린 상사와 일했엇고 그때도 나이보다는 업무 경험을 더 존중했기에 앞으로 잘 일할 자신 있음
+</details>
+
+<details markdown = "1">
+<summary>어느 지역? 지역별 무슨 영업? PB 상품 중 어떤거 점유율 높일지?</summary>
+
+</details>
+
+<details markdown = "1">
+<summary>신입으로서 중요한거?</summary>
+
+</details>
+
 <h1>기업 정보들</h1>
 
 <details markdown = "1">
