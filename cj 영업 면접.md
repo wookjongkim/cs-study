@@ -10,6 +10,8 @@
 
 </details>
 
+<h1>기업 정보들</h1>
+
 <details markdown = "1">
 <summary>관련 기업 정보, 사업 분야</summary>
 대한민국을 대표하는 식자재 유통 및 푸드 서비스 기업<br>
